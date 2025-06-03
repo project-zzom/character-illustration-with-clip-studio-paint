@@ -11,6 +11,10 @@ toc_sticky: true
 ---
 ## 다운로드 파일
 
+준비 중입니다.
+
+<!--
+
 {% include figure popup=true image_path="/assets/images/download/download-images.png" %}
 
 다운로드 파일은 다음과 같이 구성되어 있습니다. 압축 파일과 압축이 풀린 폴더 형태로 제공합니다. 용량이 큰 파일은 다운로드하는 데 오랜 시간이 소요될 수 있습니다.
@@ -21,3 +25,5 @@ toc_sticky: true
 * 배경 이미지 1종
 
 <a href="https://m.site.naver.com/1qypW" target="_blank" class="btn btn--info btn--small">다운로드하기</a>
+
+-->

@@ -15,6 +15,10 @@ toc_sticky: true
 
 ### 기본 도서
 
+준비 중입니다.
+
+<!-- 
+
 ![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate (1024 x 1024).png){: .align-center}
 
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
@@ -25,6 +29,8 @@ toc_sticky: true
 <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
+
+-->
 
 ### 관련 굿즈
 

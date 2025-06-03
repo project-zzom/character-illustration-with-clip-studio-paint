@@ -10,6 +10,10 @@ header:
 
 ## 크라우드펀딩 결과
 
+준비 중입니다.
+
+<!-- 
+
 크라우드펀딩은 <a href="https://tumblbug.com/zzom-character-illustration-with-procreate" target="_blank">'텀블벅'</a>에서 진행되었습니다.
 아쉽게도 달성률 72%로 목표를 달성하지 못했습니다.
 
@@ -27,3 +31,4 @@ header:
 다음 프로젝트에선 더 잘 준비해서 다시 뵙겠습니다.
 도움 주신 후원자 여러분 감사합니다!
 
+-->
