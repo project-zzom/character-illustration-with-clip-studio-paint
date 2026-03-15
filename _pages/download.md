@@ -15,9 +15,7 @@ toc_sticky: true
 
 다음과 같은 내용을 다운로드할 수 있습니다.
 
-* 마왕 브러시 3종
-* 마왕 컬러 세트 2종
-* 예제 일러스트 12종
-* 동영상 1종
+* 마왕 브러시 3종 / 마왕 컬러 세트 2종
+* 예제 일러스트 12종 / 동영상 1종
 
 <a href="https://m.site.naver.com/1Jv6M" target="_blank" class="btn btn--info btn--small">다운로드하기</a>
