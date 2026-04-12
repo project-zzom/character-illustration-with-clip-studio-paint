@@ -36,6 +36,6 @@ toc_sticky: true
 
 #### 아티스트 글로브
 
-![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/artist-glove.png){: .align-center}
-
-<a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+<a href="https://s.click.aliexpress.com/e/_c39qQaGl" target="_blank">
+![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/artist-blove-aliexpress.webp){: .align-center}</a>
+<a href="https://s.click.aliexpress.com/e/_c39qQaGl" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
