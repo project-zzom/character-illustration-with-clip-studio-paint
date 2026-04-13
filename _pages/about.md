@@ -28,6 +28,9 @@ gallery:
   - url: /assets/images/mockup/mockup-09.jpg
     image_path: /assets/images/mockup/mockup-09.jpg    
 ---
+
+2026년 7월 31일 출간 예정입니다. 표시되는 내용은 검수 중인 자료로 최종 출간 시에 변화가 있을 수 있습니다.
+
 ## 책 내용 소개
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
