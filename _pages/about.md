@@ -107,6 +107,7 @@ gallery:
 {% include figure popup=true image_path="/assets/images/preview/preview-16.png" %}{: .align-center}
 {% include figure popup=true image_path="/assets/images/preview/preview-17.png" %}{: .align-center}
 {% include figure popup=true image_path="/assets/images/preview/preview-18.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-19.png" %}{: .align-center}
 
 ## 원서 / 번역서 정보
 
