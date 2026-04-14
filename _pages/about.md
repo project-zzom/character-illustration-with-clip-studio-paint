@@ -29,9 +29,9 @@ gallery:
     image_path: /assets/images/mockup/mockup-09.jpg    
 ---
 
-2026년 7월 31일 출간 예정입니다. 표시되는 내용은 검수 중인 자료로 최종 출간 시에 변화가 있을 수 있습니다.
-
 ## 책 내용 소개
+
+2026년 7월 31일 출간 예정입니다. 표시되는 내용은 검수 중인 자료로 최종 출간 시에 변화가 있을 수 있습니다.
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
 
@@ -81,18 +81,34 @@ gallery:
 
 ### 홍보 이미지
 
-준비 중
+{% include figure popup=true image_path="/assets/images/book-cover-clip-studio-paint-logo.png" %}{: .align-center}
 
 ### 관련 영상
 
-준비 중
+{% include video id="XVa1bN0LnMw" provider="youtube" %}
 
 ### 미리보기
 
-준비 중
+{% include figure popup=true image_path="/assets/images/preview/preview-01.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-02.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-03.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-04.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-05.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-06.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-07.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-08.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-09.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-10.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-11.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-12.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-13.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-14.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-15.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-16.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-17.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-18.png" %}{: .align-center}
 
 ## 원서 / 번역서 정보
-
 
 ■ 원서 정보
 
