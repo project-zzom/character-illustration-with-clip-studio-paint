@@ -31,9 +31,26 @@ gallery:
 
 ## 책 내용 소개
 
+
 2026년 7월 31일 출간 예정입니다. 표시되는 내용은 검수 중인 자료로 최종 출간 시에 변화가 있을 수 있습니다.
 
+
+{% include video id="XVa1bN0LnMw" provider="youtube" %}
+
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
+
+<!--
+<a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
+<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
+<a href="https://link.coupang.com/a/ccyIvE" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
+<a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<a href="https://posty.pe/2xv14u" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
+<a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
+<a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
+-->
+
+{% include custom/affiliate.html %}
 
 <!--
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
