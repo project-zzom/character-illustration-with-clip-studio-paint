@@ -130,6 +130,7 @@ gallery:
 {% include figure popup=true image_path="/assets/images/preview/preview-24.png" %}{: .align-center}
 {% include figure popup=true image_path="/assets/images/preview/preview-25.png" %}{: .align-center}
 {% include figure popup=true image_path="/assets/images/preview/preview-26.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-27.png" %}{: .align-center}
 
 ## 원서 / 번역서 정보
 
