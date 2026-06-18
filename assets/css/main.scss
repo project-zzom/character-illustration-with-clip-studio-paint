@@ -15,4 +15,14 @@ search: false
       margin-bottom: 0.2em; /* li 항목 간의 여백 조절 */
     }
   }
+
+  ul.toc__menu, ol {
+    li {
+      margin-bottom: 0em; /* li 항목 간의 여백 조절 */
+    }
+  }
+}
+
+.greedy-nav {
+  font-size: 0.8rem
 }
