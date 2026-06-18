@@ -42,7 +42,6 @@ gallery:
 <!--
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://link.coupang.com/a/ccyIvE" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/2xv14u" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
@@ -55,7 +54,6 @@ gallery:
 <!--
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://link.coupang.com/a/ccyIvE" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/2xv14u" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
@@ -68,7 +66,7 @@ gallery:
 {% include gallery %}
 
 ### 개요
-디지털 페인팅 입문서입니다. <a href="https://m.site.naver.com/1Lqc9" target="_blank">클립 스튜디오 페인트</a>라는 페인팅 앱을 사용합니다. 초보 일러스트레이터를 위해 캐릭터 일러스트를 쉽고 빠르게 그리는 방법을 알려줍니다. 유튜브 40만 구독자를 보유한 버추얼 유튜버 '딥 블리자드' 작가님의 동영상 강좌를 한 권의 책으로 담았습니다. (2026년 4월 기준 구독자 수)
+디지털 페인팅 입문서입니다. <a href="https://m.site.naver.com/1Lqc9" target="_blank">클립 스튜디오 페인트</a>라는 페인팅 앱을 사용합니다. 초보 일러스트레이터를 위해 캐릭터 일러스트를 쉽고 빠르게 그리는 방법을 알려줍니다. 유튜브 40만 구독자를 보유한 버추얼 유튜버 '딥 블리자드' 작가님의 동영상 강좌를 한 권의 책으로 담았습니다. (2026년 6월 기준 구독자 수)
 
 ### 주요 내용
 다루는 내용은 다음과 같습니다.
@@ -159,7 +157,7 @@ gallery:
   <ul>
     <li>ISBN: 979-11-987634-1-9 (13650)</li>
     <li>발간: 2026-07-31, 정가: 24,000원</li>
-    <li>규격: 가로 188mm, 세로 257mm, 높이 9.46mm</li>
+    <li>규격: 가로 188mm, 세로 257mm, 높이 10mm</li>
     <li>페이지수: 176 페이지</li>
   </ul>
 
