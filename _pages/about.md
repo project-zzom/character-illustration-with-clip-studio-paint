@@ -101,6 +101,13 @@ gallery:
 ### 관련 영상
 
 {% include video id="XVa1bN0LnMw" provider="youtube" %}
+{% include video id="SqfNBF8E99Y" provider="youtube" %}
+{% include video id="c_iQdJf4ViE" provider="youtube" %}
+{% include video id="FYXs_X_h18k" provider="youtube" %}
+{% include video id="IaAXUFrwdEQ" provider="youtube" %}
+{% include video id="WdOxTV-vWoM" provider="youtube" %}
+{% include video id="31qtQEfEGWw" provider="youtube" %}
+{% include video id="dh67-WTrLQg" provider="youtube" %}
 
 ### 미리보기
 
