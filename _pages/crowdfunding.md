@@ -14,7 +14,7 @@ header:
 
 <!-- 
 
-크라우드펀딩은 <a href="https://tumblbug.com/zzom-character-illustration-with-procreate" target="_blank">'텀블벅'</a>에서 진행되었습니다.
+크라우드펀딩은 <a href="https://tumblbug.com/zzom-procreate" target="_blank">'텀블벅'</a>에서 진행되었습니다.
 아쉽게도 달성률 72%로 목표를 달성하지 못했습니다.
 
 {% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-1.png" %}
