@@ -97,7 +97,7 @@ gallery:
 ### 홍보 이미지
 
 {% include figure popup=true image_path="/assets/images/book-cover-clip-studio-paint-logo.png" %}{: .align-center}
-
+{% include figure popup=true image_path="/assets/images/detail/detail page (clip studio paint).jpg" %}{: .align-center}
 ### 관련 영상
 
 {% include video id="XVa1bN0LnMw" provider="youtube" %}
