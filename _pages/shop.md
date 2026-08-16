@@ -15,7 +15,7 @@ toc_sticky: true
 
 ### 기본 도서
 
-<a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank">
+<a href="https://smartstore.naver.com/zzom/products/13721977179" target="_blank">
 ![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/clip studio paint (1024 x 1024).png){: .align-center}</a>
 
 <a href="https://smartstore.naver.com/zzom/products/13721977179" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
