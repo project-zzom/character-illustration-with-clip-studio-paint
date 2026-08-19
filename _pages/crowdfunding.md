@@ -12,11 +12,7 @@ header:
 
 크라우드펀딩은 <a href="https://tumblbug.com/clip-studio-paint" target="_blank">'텀블벅'</a>에서 진행되었습니다. 아쉽게도 달성률 25%로 목표를 달성하지 못했습니다.
 
-
 {% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-book.png" %}
-
-
-<!-- 
 
 {% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-1.png" %}
 
@@ -31,5 +27,3 @@ header:
 이에 따라 도움 주신 후원자 이름을 남길 수 없게 되었습니다.
 다음 프로젝트에선 더 잘 준비해서 다시 뵙겠습니다.
 도움 주신 후원자 여러분 감사합니다!
-
--->
