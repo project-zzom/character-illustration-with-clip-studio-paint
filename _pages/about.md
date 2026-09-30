@@ -31,10 +31,6 @@ gallery:
 
 ## 책 내용 소개
 
-
-2026년 8월 31일 출간 예정입니다.
-
-
 {% include video id="XVa1bN0LnMw" provider="youtube" %}
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
